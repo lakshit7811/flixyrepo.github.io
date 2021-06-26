@@ -21,3 +21,4 @@ Instructions:
 4. Install the Zip File
 5. Then It Would Be Ready!.   **ENJOY**
 
+[![get all datas](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml/badge.svg)](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml)
