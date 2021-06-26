@@ -1,0 +1,26 @@
+name: get all datas Backup
+
+on:
+#   schedule: 
+#     - cron: "*/5 * * * *" 
+  workflow_dispatch:
+
+jobs:
+  availableLanguages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - shell: bash
+#       env:
+#         SECRETPAT: ${{ secrets.CROWDINPAT_availableLanguages }}
+      run: |
+        cd data 
+        curl -X GET https://flixy.ga/kodi/m.php -o abbb.json
+        curl -X GET https://flixy.ga/kodi/s.php -o bbbb.json
+        curl -X GET https://flixy.ga/kodi/c.php -o cbbb.json
+        cd ..
+        git config --global user.name "flixyrepo"
+        git config --global user.email "flixyrepo2240013@gmail.com"
+        git add .
+        git commit -m "data fetching backup"
+        git push
