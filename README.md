@@ -1,6 +1,6 @@
 # KODI Addon For FLIXY
 
-| [![build status](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml/badge.svg)](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml)     | ![Maintaner](https://img.shields.io/badge/maintainer-Dev_Goyal-blue)           | Cool  |
+| https://img.shields.io/badge/build-passing-green  | ![Maintaner](https://img.shields.io/badge/maintainer-Dev_Goyal-blue)           | Cool  |
 
 <!-- PROJECT LOGO -->
 <br />
