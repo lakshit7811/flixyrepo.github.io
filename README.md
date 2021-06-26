@@ -2,6 +2,9 @@
 
 [![build status](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml/badge.svg)](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml)
 
+![Maintaner](https://img.shields.io/badge/maintainer-Dev-Goyal-blue)
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
