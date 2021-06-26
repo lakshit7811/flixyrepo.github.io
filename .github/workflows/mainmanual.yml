@@ -1,0 +1,23 @@
+name: Refresh Feed Manual
+on: 
+ workflow_dispatch:
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Fetch API Data 📦
+        uses: JamesIves/fetch-api-data-action@releases/v1
+        with:
+          ENDPOINT: https://flixy.ga/kodi/index.php
+          retry: true
+      - name: Build and Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          BRANCH: main # Pushes the updates to the main branch.
+          FOLDER: all # The location of the data.json file saved by the Fetch API Data action.
+          TARGET_FOLDER: data # Saves the data into the 'data' directory on the master branch.
