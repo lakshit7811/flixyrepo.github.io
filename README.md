@@ -3,12 +3,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://flixyrepo.github.io">
+  <a href="https://flixy.ga">
     <img src="90c552e5d9b7f368819421dcbba8b324 (1).png" alt="Logo" width="40%" height="40%">
   </a>
 
   <h3 align="center">  <a href="https://flixyrepo.github.io">
- Kodi Repo link
+ Website link
     </a>
     </h3>
     
