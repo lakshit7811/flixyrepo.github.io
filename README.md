@@ -12,9 +12,9 @@
     </a>
     </h3>
     
-   
- 1. Instructions
 --------------------------------------------------------------------------------
+Instructions:
+
 1. Open the File Manager in KODI AND Add this link in source : https://flixyrepo.github.io
 2. Then Go To addons and select install from Zip
 3. All Unknown Sources and the select the source created in step 1
