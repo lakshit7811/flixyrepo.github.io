@@ -1,5 +1,7 @@
 # KODI Addon For FLIXY
 
+[![build status](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml/badge.svg)](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml)
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -21,4 +23,3 @@ Instructions:
 4. Install the Zip File
 5. Then It Would Be Ready!.   **ENJOY**
 
-[![get all datas](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml/badge.svg)](https://github.com/flixyrepo/flixyrepo.github.io/actions/workflows/newmanual.yml)
