@@ -15,7 +15,8 @@ jobs:
 #         SECRETPAT: ${{ secrets.CROWDINPAT_availableLanguages }}
       run: |
         cd data 
-        curl -X GET https://flixy.ga/kodi/index.php -o movies.json
+        curl -X GET https://flixy.ga/kodi/index.php -o a.json
+        curl -X GET https://flixy.ga/kodi/series.php -o b.json
         cd ..
         git config --global user.name "flixyrepo"
         git config --global user.email "flixyrepo2240013@gmail.com"
