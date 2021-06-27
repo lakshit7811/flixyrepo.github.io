@@ -20,6 +20,6 @@ Instructions:
 1. Open the File Manager in KODI AND Add this link in source : https://flixyrepo.github.io
 2. Then Go To addons and select install from Zip
 3. All Unknown Sources and the select the source created in step 1
-4. Install the Zip File
+4. Install the Zip File named **plugin.video.flixy.zip**
 5. Then It Would Be Ready!.   **ENJOY**
 
