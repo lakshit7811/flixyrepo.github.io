@@ -1,6 +1,6 @@
 # KODI Addon For FLIXY
 
- ![build](https://img.shields.io/badge/build-passing-green)   ![Maintaner](https://img.shields.io/badge/maintainer-Dev_Goyal-yellow)            ![better](https://img.shields.io/badge/movies_series_and_tv-addon-red)    ![kodi](https://img.shields.io/badge/kodi-addon-blue)   
+ ![build](https://img.shields.io/badge/build-passing-green)   ![Maintaner](https://img.shields.io/badge/maintainer-Dev_Goyal-yellow)            ![better](https://img.shields.io/badge/movies_series_and_tv-addon-red)    ![kodi](https://img.shields.io/badge/kodi-addon-blue)   ![voot](https://img.shields.io/badge/voot-fixed-green)   
 
 <!-- PROJECT LOGO -->
 <br />
