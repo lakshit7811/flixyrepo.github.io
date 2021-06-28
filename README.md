@@ -20,6 +20,9 @@ Instructions:
 1. Open the File Manager in KODI AND Add this link in source : https://flixyrepo.github.io
 2. Then Go To addons and select install from Zip
 3. All Unknown Sources and the select the source created in step 1
-4. Install the Zip File named **plugin.video.flixy.zip**
+4. Install the Zip File named **plugin.video.flixy.zip** (or another addon which you want **In the Repository**)
 5. Then It Would Be Ready!.   **ENJOY**
 
+--------------------------------------------------------------------------------
+Changes:
+Fixed Voot Addon  28/09/2021
