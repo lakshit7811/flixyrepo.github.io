@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni5sz7SZMYd3wml7b-7iDxNLUX-TdiZspyW8GXRHA=s88-c-k-c0x00ffffff-no-rj" group-title="Notification",Made By Indian Tech Tube
-https://www.youtube.com/watch?v=RVE34ifKmXg
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
