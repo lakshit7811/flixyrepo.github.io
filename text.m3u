@@ -2,5 +2,4 @@
 
 #EXTINF:-1 tvg-id="600" tvg-logo="" group-title="Entertainment",AMC
 #EXTVLCOPT:http-referrer=http://135.181.2.111:8800/fio/3b.rbt/
-http://livezer0.hjkm.info:11991/neptune/discoverykids/chunks.m3u8
- 
+http://livezer0.hjkm.info:11991/neptune/discoverykids/playlist.m3u8
